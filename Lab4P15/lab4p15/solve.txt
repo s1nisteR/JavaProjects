@@ -1,0 +1,7 @@
+Value of x: 5
+Value of count: 2
+Value of count: 2
+Value of x: 7
+Value of x: 14
+Value of count: 3
+Value of count: 3
